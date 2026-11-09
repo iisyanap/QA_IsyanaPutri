@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Quantity0</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Isyana Putri</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Isyana Putri</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>ee26c021-4930-4c0e-94a1-2bff0aea0602</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>ee26c021-4930-4c0e-94a1-2bff0aea0602</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dcbb1d4-d63c-4766-950c-f2af9438feca</testCaseGuid>
+</TestCaseEntity>

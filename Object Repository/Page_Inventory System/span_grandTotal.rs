@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_grandTotal</name>
+   <tag></tag>
+   <elementGuidId>32559c87-a1ce-4ff0-9369-ce7658f1cb66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'grandTotal']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#grandTotal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;111000.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cb4cd4a0-387b-4541-a26d-9c16f9856472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>grandTotal</value>
+      <webElementGuid>49370926-8a81-4e54-9adb-499c5424877a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>111000.00</value>
+      <webElementGuid>1d290384-ed57-47de-b668-395d65d272b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-04348fedf3c46f6ed61726c982aabd90</value>
+      <webElementGuid>ae30a63f-4034-4025-9cc9-cf7c8fa8f5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'grandTotal']</value>
+      <webElementGuid>74d1364e-aee7-4045-9d1b-ea837a0a342e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'grandTotal']</value>
+      <webElementGuid>9249cc64-464e-4822-96eb-b5679b7ba5c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'grandTotal' and (text() = '111000.00' or . = '111000.00')]</value>
+      <webElementGuid>2f7d31c3-919b-4ff3-8335-6a3e847beb79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
